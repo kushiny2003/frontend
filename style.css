@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;}
+}
+b0dy{
+    font-family: Arial, sans-serif;
+    background-color: brown;
+    height: 100vh;
+    display:flex;
+    justify-content:center ;
+    align-items:center ;
+
+}
+.loginbox{
+    background-color: white;
+    width: 350px;
+    padding:30px;
+    border-radius: 10px;
+    
+}
+h1{
+    text-align: center;
+    margin-bottom:20px;
+}
+input{
+    width:100px;
+    padding:10px;
+    margin-bottom: 15px;
+    border:1px solid gray;
+    border-radius: 5px;
+}
+label{
+    display:block;
+    margin-bottom: 5px;
+
+}
